@@ -24,7 +24,7 @@ Teams often suffer from **inconsistent execution** 🤷, **poor risk anticipatio
 
 ## 🔑 Key Features & Outcomes
 
-### 1 Proactive, Contextual Automation
+### 1. Proactive, Contextual Automation
 
 - **💡 Actionable Suggestions:**  
   Uses real-time project data (deadlines, team velocity, past failures) to flag risks *before* they escalate.  
@@ -39,7 +39,7 @@ Teams often suffer from **inconsistent execution** 🤷, **poor risk anticipatio
 
 ---
 
-### 2 CEO Coaching Companion
+### 2. CEO Coaching Companion
 
 - **📚 Leadership Playbooks:**  
   Provides actionable strategies for resolving conflicts, mitigating burnout, and realigning misaligned team efforts.  
@@ -56,7 +56,7 @@ Teams often suffer from **inconsistent execution** 🤷, **poor risk anticipatio
 
 ---
 
-### 3 Edge-Case Enforcement
+### 3. Edge-Case Enforcement
 
 - **🔢 Pre-Task Checklists:**  
   Forces teams to consider, *"What could go wrong?"* before starting work.  
